@@ -1,7 +1,4 @@
-﻿using System;
-
-
-namespace Vroumed.Common.Packets
+﻿namespace Vroumed.Common.Packets
 {
     public enum PacketType
     {
